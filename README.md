@@ -33,7 +33,7 @@ Jupyter notebook:
 
 Spyder:
 * Create python functions for data visualization
-* Create a web application using flask and deploy it to Replit
+* Create a web application using flask and deploy it to replit.com
 ## Results
 
 Link to the web application:
