@@ -41,7 +41,7 @@ Link to the web application:
 * or [https://replit.com/@jihadakbr/Bank-Customer-Churn-Prediction?v=1](https://replit.com/@jihadakbr/Bank-Customer-Churn-Prediction?v=1)
 * Note that this web application is only active when I log in to replit.com
 
-![Accuracy and Lost of Bank Customer Churn Prediction](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6W0I9sTrDEEO2U3z0eM7t7Pvq8gYmFajKEk8fE6Mmc94R44aS9M4IumG66A-BiiYiCPvsBNZYXXg6-hCQ5Wk7udQ11A_M4CQL09hMHf8Fb8tQxmOrHQlddOxjj5kSltjP7skVm_gqw7BUMRiaIr4YMwdjbcy_ZuDvonarrDJYZ1KeA6-HMZ1GMu54/s1600/bank-customer-churn-prediction-accuracy-lost.png)
+![Accuracy and Lost of Bank Customer Churn Prediction](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGq8RVGKYQP5F8VbDpfhqWEvIaOqn2lJM5Mmzm9atOJFgcJ5nxEuxEZCSP6z1HhEaUF1PjfWzKdAH4J_pmeFwaQvCf5cTY_nAfYMJkijn6cO-krKak0oR3bifJ-7hbn12oesxfZ-rRsIQj9gLjw1sQIOXPO7_lma2fsN8FTSdWLfIhAdER7wrmXbrx/s1600/bank-customer-churn-prediction-accuracy-lost.png)
 
 ![Bank Customer Churn Prediction](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghtWFO5GUz9J1O0j00yKYv6I9QxSxjoXPRveZ6wpyak_sP5sZP0s1WYZQnyj_Zfsl88rUo5zmWL27ZCkVd-U6xanWhdk7_um7yboAZxJQ2-9zVdazkOW8AHucBEXGet0ZnwMbDrIy53IyypA1UCFKu8p-mB8VsGTcLb2BU66PwvWeL3wQEkC7Pq87y/s1600/bank-customer-churn-prediction.png)
 
