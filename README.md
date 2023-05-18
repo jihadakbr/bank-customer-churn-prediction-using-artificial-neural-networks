@@ -59,3 +59,4 @@ Link to the web application:
 * This accuracy is achieved by these configurations: 1 input with 11 neurons, 1 hidden layer and dropout with 6 neurons, and 1 output with 1 neuron
 * A graphical user interface (GUI) has been created using Tkinter
 * Deployment of a web application using Flask on replit.com has been successful
+
